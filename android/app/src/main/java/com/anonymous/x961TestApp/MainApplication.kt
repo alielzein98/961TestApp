@@ -1,4 +1,4 @@
-package com.961testapp
+package com.anonymous.x961TestApp
 
 import android.app.Application
 import android.content.res.Configuration

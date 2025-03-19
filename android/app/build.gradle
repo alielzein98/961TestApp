@@ -86,13 +86,13 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.961testapp"
+    namespace 'com.anonymous.x961TestApp'
     defaultConfig {
-        applicationId "com.961testapp"
+        applicationId 'com.anonymous.x961TestApp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
     signingConfigs {
         debug {

@@ -2,6 +2,16 @@
   "expo": {
     "name": "961TestApp",
     "slug": "961TestApp",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.x961TestApp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.x961TestApp"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-asset"
+    ]
   }
 }
