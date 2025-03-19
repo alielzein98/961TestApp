@@ -1,7 +1,3 @@
-Here’s a simple **README.md** file for your project:
-
----
-
 # **961TestApp**
 
 ## **Overview**
